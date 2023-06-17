@@ -20,3 +20,6 @@ The respective thresholds configured for the sensors are configured as follows:
 
 ![flowchart](/flowchart_triggers.png)
 
+When the STM32 Chip is interfaced with the CHIPACU terminal program, the readings will be shown in the following format:
+
+![reading](/reading_sample.png)
