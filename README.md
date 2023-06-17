@@ -18,5 +18,5 @@ The following 5 sensor modules: Temperature, Pressure, Humidity, Accelerometer, 
 
 The respective thresholds configured for the sensors are configured as follows:
 
-![flowchart](/flowchart_trigger.png)
+![flowchart](/flowchart_triggers.png)
 
