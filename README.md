@@ -5,7 +5,7 @@ Think of COPEMON as a wearable IoT device, such as an Apple Watch, except that i
 
 ## Features
 
-The following 5 sensor modules: Temperature, Pressure, Humidity, Accelerometer, Gyroscope, Magnetometer are used in the following ways to monitor the COVID patient
+The following 5 sensor modules: Temperature, Pressure, Humidity, Accelerometer, Gyroscope, Magnetometer are used in the following ways to monitor the COVID patient:
 
 - Temperature Sensor in Fever Detection 
 - Breathing Monitor to detect Abnormal Breathing Patterns
