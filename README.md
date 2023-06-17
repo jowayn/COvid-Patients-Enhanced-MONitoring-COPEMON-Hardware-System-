@@ -3,6 +3,8 @@ COPEMON is a hardware project built on a STM32L475 ARM Cortex-M4 System as part 
 
 Think of COPEMON as a wearable IoT device, such as an Apple Watch, except that it is equipped with certain sensors that the Apple Watch doesn't have. This wearable device is to be worn by a COVID patient, such that caretakers or medical teams are able to remotely monitor the condition of said patient, and be alerted to abnormal readings which suggest the patient is in need of follow-up attention.
 
+This project was built together with a fellow colleague, R N Nandetha.
+
 ## Features
 
 The following 5 sensor modules: Temperature, Pressure, Humidity, Accelerometer, Gyroscope, Magnetometer are used in the following ways to monitor the COVID patient:
